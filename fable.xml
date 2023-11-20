@@ -1,6 +1,6 @@
 <fable>
-	<page>
-  
+    <page background="noite_dark.png" soundtrack="Stage.mp3">
+        <agent></agent>  
     
-  </page>
+    </page>
 </fable>

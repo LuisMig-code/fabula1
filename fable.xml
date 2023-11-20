@@ -1,6 +1,6 @@
 <fable>
     <page background="noite_dark.png" soundtrack="Stage.mp3">
-        <agent x="175" y="250" text="Bem vindo a fábula" color="white" />  
-        <agent x="400" y="0" img="TombStone (2).png"/>
+        <agent x="175" y="320" text="Bem vindo a fábula" color="black" />  
+        <agent x="400" y="50" img="TombStone (2).png" width="40" height="50"/>
     </page>
 </fable>
